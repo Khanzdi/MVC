@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Personal\.android\build-cache\38b62592e7507b29667691271e64fd960f335d6d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\Personal\Documents\Android repository\MVC\app\build\intermediates\pre-dexed\debug\classes_14a7855511a095528e095bde541f6221208616d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Personal\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\Personal\Documents\Android repository\MVC\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_f7eeed34fb71b171fcda0634d80711020d64cacd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Personal\.android\build-cache\2b82ca077992f8eb684d32e23a212758a3216953\output\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Personal\Documents\Android repository\MVC\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_7e992420b15af89f5d8a578b4828a44732eb9822.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Personal\.android\build-cache\2b82ca077992f8eb684d32e23a212758a3216953\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Personal\Documents\Android repository\MVC\app\build\intermediates\pre-dexed\debug\classes_153b6493d8692f9c8876ca860ff9aeb532bd9a85.jar" />
+    </item>
+
+</items>
